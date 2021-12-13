@@ -104,18 +104,23 @@ eleventyNavigation:
 * [06 - V - Clases y prototype](./06-JS-V)
 * [07 - VI - Callbacks](./07-JS-VI)
 * [08 - HTML](./08-HTML)
-* [09 - CSS](./09-CSS-Positioning) -->
-
-* Henry Challenge => [Inscribite acá para rendir](https://challenge.prep.soyhenry.com/)
+* [09 - CSS](./09-CSS-Positioning)
 
 ## Conceptos
 
 * [Expressions vs Statements](./JS-conceptos/Statements-Expressions/)
 
+* Henry Challenge => [Inscribite acá para rendir](https://challenge.prep.soyhenry.com/) -->
+
+<div class="iframeContainer">
+<iframe src="https://player.vimeo.com/video/426051769" allow="autoplay; fullscreen"></iframe>
+</div>
+
 ## Clases de Repaso (Henry Heroes)
 
-Estudiantes más avanzados de la carrera resuelven los ejercicios en vivo en formato webinar.
-[Acá podes](https://docs.google.com/spreadsheets/d/e/2PACX-1vQwV-pEgWuxqI1B3pdVI0lbeqPB0a6LHPk6-DQlifDdX9Rue_Ul4YTOxoOg-hhofv6U0f32OoXOU2Wf/pubhtml) ver el calendario de las clases y las grabaciones.
+Estudiantes avanzados de la carrera resuelven los ejercicios en vivo en formato webinar.
+
+Acá podés ver el [calendario](https://docs.google.com/spreadsheets/d/e/2PACX-1vQwV-pEgWuxqI1B3pdVI0lbeqPB0a6LHPk6-DQlifDdX9Rue_Ul4YTOxoOg-hhofv6U0f32OoXOU2Wf/pubhtml) de las clases y las grabaciones.
 
 ## Homeworks
 
@@ -135,6 +140,7 @@ Por ejemplo, para ejecutar los tests del homework 02, ejecutar: `npm test JSII.t
 y así.
 
 > No todos los homeworks tienen tests, está detallado en la descripción de cada uno.
+<<<<<<< HEAD
 
 # La Carrera
 
@@ -144,3 +150,5 @@ Si querés saber más sobre la carrera, mirá este video:
 <iframe src="https://player.vimeo.com/video/426051769" allow="autoplay; fullscreen"></iframe>
 </div>
 >>>>>>> 9d3e9a4 (initial commit)
+=======
+>>>>>>> a5a3625 (lessons order fixed)
