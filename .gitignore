@@ -1,2 +1,10 @@
+<<<<<<< HEAD
 /node_modules
 /package-lock.json
+=======
+node_modules
+
+# Eleventy build
+_dist
+
+>>>>>>> 9d3e9a4 (initial commit)
