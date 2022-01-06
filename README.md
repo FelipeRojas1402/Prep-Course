@@ -82,7 +82,7 @@ Las clases son de lunes a viernes. Cada día se establece una temática distinta
 Si no puedes asistir al espacio en vivo, podrás ver la grabación. Puedes encontrar el calendario con las clases, el link de acceso y el link de la grabación, aquí: [**CALENDARIO**](https://prep.soyhenry.com/calendario/)
 =======
 ---
-title: Introducción
+lessonTitle: Introducción
 permalink: "/index.html"
 layout: intro
 eleventyNavigation:
