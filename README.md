@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ![HenryLogo](./Assets//logoBannerHenry.png)
 
 # **🧑‍💻 PREP COURSE | HENRY 👩‍💻**
@@ -90,6 +91,8 @@ eleventyNavigation:
   order: 0
 ---
 
+=======
+>>>>>>> 8951cd4 (front matter removed - parsing data from jsons)
 ![HenryLogo](/_src/assets/logo.png)
 
 # Prep Course
