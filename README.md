@@ -2,6 +2,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ![HenryLogo](./Assets//logoBannerHenry.png)
 
 # **🧑‍💻 PREP COURSE | HENRY 👩‍💻**
@@ -105,6 +106,8 @@ eleventyNavigation:
 >>>>>>> 8951cd4 (front matter removed - parsing data from jsons)
 =======
 >>>>>>> db9764e (fix)
+=======
+>>>>>>> 75bbcaf (case testing)
 ![HenryLogo](/_src/assets/logo.png)
 
 # Prep Course
