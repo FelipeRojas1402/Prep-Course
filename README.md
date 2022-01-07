@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ![HenryLogo](./Assets//logoBannerHenry.png)
 
 # **🧑‍💻 PREP COURSE | HENRY 👩‍💻**
@@ -84,6 +85,10 @@ Si no puedes asistir al espacio en vivo, podrás ver la grabación. Puedes encon
 =======
 ---
 lessonTitle: Introducción
+=======
+---
+title: Introducción
+>>>>>>> db9764e (fix)
 permalink: "/index.html"
 layout: intro
 eleventyNavigation:
@@ -91,8 +96,11 @@ eleventyNavigation:
   order: 0
 ---
 
+<<<<<<< HEAD
 =======
 >>>>>>> 8951cd4 (front matter removed - parsing data from jsons)
+=======
+>>>>>>> db9764e (fix)
 ![HenryLogo](/_src/assets/logo.png)
 
 # Prep Course
