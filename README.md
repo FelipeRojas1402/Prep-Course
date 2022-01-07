@@ -4,6 +4,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ![HenryLogo](./Assets//logoBannerHenry.png)
 
 # **🧑‍💻 PREP COURSE | HENRY 👩‍💻**
@@ -113,6 +114,9 @@ eleventyNavigation:
 =======
 ![HenryLogo](https://henry-social-resources.s3.sa-east-1.amazonaws.com/logos/LOGO-HENRY-04_w.png)
 >>>>>>> 25e25e2 (assets migration)
+=======
+![HenryLogo](https://henry-11ty-resources.s3.sa-east-1.amazonaws.com/Assets/logo-henry-white-lg.png)
+>>>>>>> bbbbf4a (assets migration)
 
 # Prep Course
 
