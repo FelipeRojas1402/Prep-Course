@@ -3,6 +3,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ![HenryLogo](./Assets//logoBannerHenry.png)
 
 # **🧑‍💻 PREP COURSE | HENRY 👩‍💻**
@@ -109,6 +110,9 @@ eleventyNavigation:
 =======
 >>>>>>> 75bbcaf (case testing)
 ![HenryLogo](/_src/assets/logo.png)
+=======
+![HenryLogo](https://henry-social-resources.s3.sa-east-1.amazonaws.com/logos/LOGO-HENRY-04_w.png)
+>>>>>>> 25e25e2 (assets migration)
 
 # Prep Course
 
