@@ -3,8 +3,13 @@
 /package-lock.json
 =======
 node_modules
+package-lock.json
 
-# Eleventy build
+# Eleventy
 _dist
+<<<<<<< HEAD
 
 >>>>>>> 9d3e9a4 (initial commit)
+=======
+_cache
+>>>>>>> fdd8c8f (css cached)
