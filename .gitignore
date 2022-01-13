@@ -4,6 +4,7 @@
 =======
 node_modules
 package-lock.json
+.temp
 
 # Eleventy
 _dist
