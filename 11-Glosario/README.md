@@ -1,6 +1,7 @@
 ![HenryLogo](https://henry-11ty-resources.s3.sa-east-1.amazonaws.com/Assets/logo-henry-white-lg.png)
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 **_Argumento:_** valor real pasado como input (valor de entrada) a una función.
 
 **_Array (Arreglo):_** es un tipo especial de variable que se utiliza para almacenar múltiples elementos. A su vez es un tipo de objeto.
@@ -100,6 +101,9 @@
 **_Variable:_** contenedor en los que puedes almacenar valores.
 =======
 # Definiciones
+=======
+# Glosario
+>>>>>>> ec64c7b (title changed)
 
 ## A
 
