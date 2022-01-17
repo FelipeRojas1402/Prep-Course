@@ -2,6 +2,7 @@
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 **_Argumento:_** valor real pasado como input (valor de entrada) a una función.
 
 **_Array (Arreglo):_** es un tipo especial de variable que se utiliza para almacenar múltiples elementos. A su vez es un tipo de objeto.
@@ -102,6 +103,8 @@
 =======
 # Definiciones
 =======
+=======
+>>>>>>> e3f7402 (mini intro for the glossary)
 # Glosario
 >>>>>>> ec64c7b (title changed)
 
@@ -236,4 +239,7 @@
 ## V
 
 **Variable:** contenedor en los que puedes almacenar valores.
+<<<<<<< HEAD
 >>>>>>> 51b1aee (glossary index & styles)
+=======
+>>>>>>> e3f7402 (mini intro for the glossary)
