@@ -108,6 +108,8 @@
 # Glosario
 >>>>>>> ec64c7b (title changed)
 
+_A continuación encontrarás una serie de conceptos básicos propios de la programación, le servirán para familiarizarse con el contenido del Prep Course._
+
 ## A
 
 **Argumento:** valor real pasado como input (valor de entrada) a una función.
