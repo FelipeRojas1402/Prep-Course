@@ -108,7 +108,7 @@
 # Glosario
 >>>>>>> ec64c7b (title changed)
 
-_A continuación encontrarás una serie de conceptos básicos propios de la programación, que te servirán para familiarizarte con el contenido del Prep Course._
+##### A continuación encontrarás una serie de conceptos básicos propios de la programación, que te servirán para familiarizarte con el contenido del Prep Course.
 
 ## A
 
