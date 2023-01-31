@@ -1,24 +1,8 @@
-<<<<<<< HEAD
-/node_modules
-/package-lock.json
-=======
 node_modules
 package-lock.json
 .temp
 
 # Eleventy
 _dist
-<<<<<<< HEAD
-
->>>>>>> 9d3e9a4 (initial commit)
-=======
 _cache
-<<<<<<< HEAD
-<<<<<<< HEAD
->>>>>>> fdd8c8f (css cached)
-=======
 /_src/localStyles
->>>>>>> 8eda41e (Update .gitignore)
-=======
-/_src/localStyles
->>>>>>> c2275b8 (Update .gitignore)
